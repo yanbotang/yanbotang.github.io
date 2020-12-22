@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Actuarial Science, Concordia University, 2015
 * M.S. in Statistics, University of Toronto, 2016
-* Ph.D in Statistics, University of Toronto, ongoing
+* Ph.D in Statistics, University of Toronto, 2017-ongoing
 
 Work experience
 ======
