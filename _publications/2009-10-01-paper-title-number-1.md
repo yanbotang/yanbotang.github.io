@@ -10,7 +10,7 @@ citation: 'Tang and Reid. (2020). &quot; Modified Likelihood Root in High Dimens
 ---
 This paper is the behavour of the modified likelihood root in high dimensions. A related piece of work on the saddlepoint approximation and laplace approximation in high-dimension is currently being written.
 
-[Download paper here](http://academicpages.github.io/files/2020-MLRinHD.pdf)
-[Download supplementary material here](http://academicpages.github.io/files/2020-MLRinHDsup.pdf)
+[Download paper here](http://yanbotang.github.io/files/MLRinHD.pdf)
+[Download supplementary material here](http://yanbotang.github.io/files/MLRinHDsup.pdf)
 
 Recommended citation: Tang and Reid. (2020). "Modified Likelihood Root in High Dimensions." <i>Journal of the Royal Statistical Society, Series B</i>. 82.
