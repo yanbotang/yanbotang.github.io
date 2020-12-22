@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanbo Tang"
 title_separator          : "-"
 name                     : &name "Yanbo Tang"
-description              : &description "PhD candidate at the Univserity of Toronto"
+description              : &description "PhD candidate at the University of Toronto"
 url                      : https://yanbotang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanbotang/yanbotang.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yanbo Tang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "PhD candidate in the Department of Statistical Sciences at the Univserity of Toronto"
   location         : "Toronto"
   employer         :
