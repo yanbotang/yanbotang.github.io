@@ -15,6 +15,12 @@ Education
 * M.S. in Statistics, University of Toronto, 2016
 * Ph.D in Statistics, University of Toronto, 2017-ongoing
 
+Awards
+======
+* NSERC Postgraduate Scholarships-Doctoral Program (PGS D) 
+* Ontario Graduate Scholarship (OGS) 
+* Teaching Assistant Award Department of Statistical Sciences, University of Toronto
+
 Work experience
 ======
 * Summer 2019-2020: Research Assistant
