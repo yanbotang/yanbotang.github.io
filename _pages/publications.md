@@ -14,3 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+Works in Progress
+======
+* "Higher-Order Accurate Approximate Bayesian Inference using Adaptive Quadrature" with Blair Bilodeau and Alex Stringer
+* "Higher Order Approximations in High Dimensions" with Nancy Reid 
