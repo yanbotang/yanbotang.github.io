@@ -17,6 +17,5 @@ author_profile: true
 
 Works in Progress
 ======
-* "Higher-Order Accurate Approximate Bayesian Inference using Adaptive Quadrature" with Blair Bilodeau and Alex Stringer
 * "Higher-Order Approximations in High Dimensions" with Nancy Reid 
 * "Asympotic Behaviour of the Modified Likelihood Root" with Nancy Reid
