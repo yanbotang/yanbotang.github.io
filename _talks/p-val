@@ -1,0 +1,11 @@
+---
+title: "Talk on: Approximate nature of p-values and reproducibility"
+collection: talks
+type: "Talk"
+permalink: /talks/2021-pval-repro
+venue: "Toronto Workshop on Reproducibility"
+date: 2021-2-26
+location: "Virtual"
+---
+
+A talk based on the paper "General Behaviour of P-values under the Null and Alternative". Presented live for the Toronto Workshop on Reproducibility.
