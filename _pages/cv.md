@@ -20,6 +20,8 @@ Awards
 * NSERC Postgraduate Scholarships-Doctoral Program (PGS D) 
 * Ontario Graduate Scholarship (OGS) 
 * Teaching Assistant Award Department of Statistical Sciences, University of Toronto
+* BMO Scholarship 
+* Towers Watson Scholarship
 
 Work experience
 ======
