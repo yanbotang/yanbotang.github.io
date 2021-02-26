@@ -41,6 +41,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Referee duties
+======
+Journal of the Royal Statistical Society: Series B, Statistical Sciences, and Canadian Journal of Statistics
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
