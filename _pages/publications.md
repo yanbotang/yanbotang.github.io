@@ -17,5 +17,5 @@ author_profile: true
 
 Works in Progress
 ======
-* "Higher-Order Approximations in High Dimensions" with Nancy Reid 
+* "Variability of Astrophysical Jets" with Eileen Meyer, Aamil Shaik and  Nancy Reid 
 * "Asympotic Behaviour of the Modified Likelihood Root" with Nancy Reid
