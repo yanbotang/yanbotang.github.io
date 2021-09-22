@@ -17,8 +17,10 @@ Education
 
 Awards
 ======
-* NSERC Postgraduate Scholarships-Doctoral Program (PGS D) 
+* NSERC Postgraduate Scholarships-Doctoral Program (CGS D) (Upgraded for 2020-2021) 
+* NSERC Postgraduate Scholarships-Doctoral Program (PGS D) (2018-2020)
 * Ontario Graduate Scholarship (OGS) 
+* ISBA 2021 Best Student/Postdoc Contributed Paper Award
 * Teaching Assistant Award Department of Statistical Sciences, University of Toronto
 * BMO Scholarship 
 * Towers Watson Scholarship
@@ -30,18 +32,22 @@ Work experience
   * Duties included: Investigating the behavior of the P-value distribution under general assumptions.
   * Supervisor: Professor Lei Sun and Radu Craiu
 
-* Fall 2016-2020: Teaching Assistant
+* Fall 2016-2021: Teaching Assistant
   * University of Toronto
   * Duties included: Planning and running tutorial sessions for between 15 and 50 Toronto students, providing individual instruction during office hours and grading 
   Courses TA’d have spanned introductory statistical theory, application and
   mathematical probability. I have consistently received extremely positive
   feedback from students, and won the departmental TA award in 2016.
   
-Publications
+Refereed Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Non-Refereed Publications
+======
+Tang (2021) contribution to the discussion of Vansteelandt and Dukes (2021) Assumption-lean inference for generalised linear model parameters (To appear in JRSSB).
   
 Referee duties
 ======
