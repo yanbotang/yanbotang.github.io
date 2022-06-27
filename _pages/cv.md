@@ -17,6 +17,8 @@ Education
 
 Awards
 ======
+* SSC 2022 Presentation Award, Probability Secion
+* Donald A. S. Fraser Award, Depart
 * NSERC Postgraduate Scholarships-Doctoral Program (CGS D) (Upgraded for 2020-2021) 
 * NSERC Postgraduate Scholarships-Doctoral Program (PGS D) (2018-2020)
 * Ontario Graduate Scholarship (OGS) 
