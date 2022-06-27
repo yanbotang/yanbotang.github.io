@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Actuarial Science, Concordia University, 2015
 * M.S. in Statistics, University of Toronto, 2016
-* Ph.D in Statistics, University of Toronto, 2017-ongoing
+* Ph.D in Statistics, University of Toronto, 2017-2022
 
 Awards
 ======
@@ -27,6 +27,11 @@ Awards
 
 Work experience
 ======
+* 2022-2023: Chapman Fellow
+  * Imperial Collge London
+  * Duties included: Teaching and supervision of Masters students.
+  * Supervisor: Dr. Heather S. Battey
+
 * Summer 2019-2020: Research Assistant
   * University of Toronto
   * Duties included: Investigating the behavior of the P-value distribution under general assumptions.
