@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello and welcome! I am a Chapman Fellow at Imperial Collge London (2022 -2023) and then Lecturer (roughtly assitant professor) from 2023 onwards. I obtained my PhD from the University of Toronto under the joint supervision of Nancy Reid and Daniel Roy.
+Hello and welcome! I am a Chapman Fellow at Imperial Collge London (2022 -2023) and then Lecturer (roughtly assitant professor) from 2023 onwards. I obtained my PhD from the University of Toronto in 2022 under the joint supervision of Nancy Reid and Daniel Roy.
 My main interest lies in higher order asymptotics and inference in the presence of a high number of nuisance parameters. 
 I am also interested in inference problems in statistical genetics and astrostatistics. 
 This website contains a list of my publications, talks and CV. 
