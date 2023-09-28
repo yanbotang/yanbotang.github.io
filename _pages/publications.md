@@ -15,7 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Works in Progress
-======
-* "Variability of Astrophysical Jets" with Eileen Meyer, Aamil Shaik and  Nancy Reid 
-* "Asympotic Behaviour of the Modified Likelihood Root" with Nancy Reid
+
