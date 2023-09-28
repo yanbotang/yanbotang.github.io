@@ -12,6 +12,3 @@ This paper is the behavour of the modified likelihood root in high dimensions. A
 
 [Download paper here](http://yanbotang.github.io/files/MLRinHD.pdf)
 [Download supplementary material here](http://yanbotang.github.io/files/MLRinHDsup.pdf)
-
-Recommended citation: Tang, Y., & Reid, N. (2020). Modified likelihood root in high dimensions. Journal of the Royal Statistical Society Series B: Statistical Methodology, 82(5), 1349-1369.
-
