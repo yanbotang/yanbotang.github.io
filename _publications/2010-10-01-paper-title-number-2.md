@@ -11,5 +11,3 @@ citation: 'Tang, Craiu and Sun. &quot;General Behaviour of P-values under the Nu
 This paper studes the behaviour of the p-values distribtuion under general assumptions.
 
 [Download paper here](http://yanbotang.github.io/files/pval.pdf)
-
-Recommended citation: Tang, Y., Craiu, R., & Sun, L. (2020). General Behaviour of P-Values Under the Null and Alternative. ArXiv preprint.
