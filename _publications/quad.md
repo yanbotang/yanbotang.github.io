@@ -11,4 +11,3 @@ citation: 'Bilodeau, Stringer and Tang. &quot;Stochastic Convergence Rates and A
 ---
 This paper looks at the application of adaptive quadrature to Bayesian inference, showing the rate of convergence as well as demonstrating the ultility of the method in a few challenging examples.
 
-[Download paper here](https://www.tandfonline.com/doi/full/10.1080/01621459.2022.2141635)
