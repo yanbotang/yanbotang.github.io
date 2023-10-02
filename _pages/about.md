@@ -17,8 +17,8 @@ If you are interested in contacting me, my email is yanbo.tang[at]imperial.ac.uk
 
 <b> Supervision <b>
 
-I can supervise PhD students through the Mathematics Research Doctoral Programme, or through the EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford (StatML). 
+I supervise PhD students through the Mathematics Research Doctoral Programme, or through the EPSRC CDT in Modern Statistics and Statistical Machine Learning at Imperial and Oxford (StatML). 
 The projects I offer are suitable for candidates with an interest in high-dimensional statistics or computational statistics and a good background in mathematical statistics. 
-If you are interested in a PhD position under my supervision, please contact me via email before submitting an application; please attach a copy of your CV and transcript to your email.
+If you are interested in a PhD position under my supervision, contact me via email before submitting an application; please attach a copy of your CV and transcript to your email.
 
 
