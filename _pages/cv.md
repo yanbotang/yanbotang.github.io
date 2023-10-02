@@ -67,12 +67,12 @@ Journal of the Royal Statistical Society: Series B, Statistical Sciences, Journa
 
 Service
 ======
-*2023 - 2024 Admission panel MSc in Statistics (Imperial College)
-*2023 Moderator for Econometrics and Learning workshop (hosted at Imperial-X)
-*2022 Moderator Bayesian Fiducial Frequentist conference (BFF7)
-*2022 Judge for Canadian Statistics Student Conference 10 (CSSC)
-*2022 Moderator for the Statistics Society of Canada (SSC) annual meeting 2022 (online)
-*2022 Moderator for the SSC annual meeting 2021
+* 2023 - 2024 Admission panel MSc in Statistics (Imperial College)
+* 2023 Moderator for Econometrics and Learning workshop (hosted at Imperial-X)
+* 2022 Moderator Bayesian Fiducial Frequentist conference (BFF7)
+* 2022 Judge for Canadian Statistics Student Conference 10 (CSSC)
+* 2022 Moderator for the Statistics Society of Canada (SSC) annual meeting 2022 (online)
+* 2022 Moderator for the SSC annual meeting 2021
 
   
 Teaching
@@ -83,10 +83,10 @@ Teaching
 
 Supervision 
 ======
-*2023 Lito Konidari, MSc in Statistics
+* 2023 Lito Konidari, MSc in Statistics
   * A Genetic Algorithm for the Boundary Estimation of Complex Astronomical Objects
 
-*2023 Isaac Sanders, MSc in Statistics
+* 2023 Isaac Sanders, MSc in Statistics
   * A Mathematical Exploration of the Strategic Aspects of Warfare  
   
 Talks
