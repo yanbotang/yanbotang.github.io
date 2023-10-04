@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Actuarial Science, Concordia University, 2015
-* M.S. in Statistics, University of Toronto, 2016
-* Ph.D in Statistics, University of Toronto, 2017-2022
+## Education
 
-Awards
-======
+* Ph.D in Statistics, University of Toronto, 2017-2022
+* M.S. in Statistics, University of Toronto, 2016
+* B.S. in Actuarial Science, Concordia University, 2015
+
+## Awards
+
 * SSC 2022 Presentation Award, Probability Section
 * Donald A. S. Fraser Award, Department of Statistical Sciences, University of Toronto
 * NSERC Postgraduate Scholarships-Doctoral Program (CGS D) (Upgraded for 2020-2021) 
@@ -27,12 +27,11 @@ Awards
 * BMO Scholarship 
 * Towers Watson Scholarship
 
-Work Experience
-======
+## Work Experience
+
 * 2023 - present: Lecturer (assistant professor)
   * Imperial College London
   * Duties included: Teaching and supervision of undergraduate and Masters students. 
-
 
 * 2022-2023: Chapman Fellow
   * Imperial College London
@@ -51,22 +50,22 @@ Work Experience
   mathematical probability. I have consistently received extremely positive
   feedback from students, and won the departmental TA award in 2016.
   
-Refereed Publications
-======
-  <ul>{% for post in site.publications %}
+## Refereed Publications
+
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Non-Refereed Publications
-======
+## Non-Refereed Publications
+
 Tang (2021) contribution to the discussion of Vansteelandt and Dukes (2021) Assumption-lean inference for generalised linear model parameters (To appear in JRSSB).
   
-Referee Duties
-======
+## Referee Duties
+
 Journal of the Royal Statistical Society: Series B, Statistical Sciences, Journal of Graphical and Computational Statistics and Canadian Journal of Statistics.
 
-Service
-======
+## Service
+
 * 2023 - 2024 Admission panel MSc in Statistics (Imperial College)
 * 2023 Moderator for Econometrics and Learning workshop (hosted at Imperial-X)
 * 2022 Moderator Bayesian Fiducial Frequentist conference (BFF7)
@@ -75,23 +74,23 @@ Service
 * 2022 Moderator for the SSC annual meeting 2021
 
   
-Teaching
-======
+## Teaching
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Supervision 
-======
+## Supervision 
+
 * 2023 Lito Konidari, MSc in Statistics
   * A Genetic Algorithm for the Boundary Estimation of Complex Astronomical Objects
 
 * 2023 Isaac Sanders, MSc in Statistics
   * A Mathematical Exploration of the Strategic Aspects of Warfare  
   
-Talks
-======
-  <ul>{% for post in site.talks %}
+## Talks
+
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
