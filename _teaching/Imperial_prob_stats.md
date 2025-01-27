@@ -8,4 +8,4 @@ date: 2022-10-01
 location: "London, UK"
 ---
 
-Introductory class to probability theory for MSc students in statistics. 
+Introductory class to probability theory for MSc students in statistics, from 2022 - now.
