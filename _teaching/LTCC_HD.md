@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/ltcc_hd
 venue: "LTCC, London"
-date: 20125-02-17
+date: 2025-02-17
 location: "London, UK"
 ---
 
