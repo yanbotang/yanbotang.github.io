@@ -17,6 +17,8 @@ Lecture notes (last update 18th of Febuary, will try to update weekly)
 [Lecture notes](http://yanbotang.github.io/files/LTCC_notes_FEB18.pdf)
 
 Resources
-High-Dimensional Statistics by Philippe Rigollet and Jan-Christian H¨utter: https://arxiv.org/pdf/2310.19244
-High-Dimensional Statistics: A Non-Asymptotic Viewpoint by Martin Wainwright: https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E
-High-Dimensional Probability by Roman Vershynin: https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html (there is a free draft of the book available on his website)
+High-Dimensional Statistics by Philippe Rigollet and Jan-Christian H¨utter: [Link](https://arxiv.org/pdf/2310.19244)
+
+High-Dimensional Statistics: A Non-Asymptotic Viewpoint by Martin Wainwright: [Link](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E)
+
+High-Dimensional Probability by Roman Vershynin: [Link](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html) (there is a free draft version of the book available on his website)
