@@ -12,6 +12,7 @@ Five week introductory course on high-dimensional statistics. Course notes and s
 
 Annotated slides
 [Week 1](http://yanbotang.github.io/files/LTCCW1.pdf)
+[Week 2](http://yanbotang.github.io/files/LTCCW2.pdf)
 
 Lecture notes (last update 25th of Febuary, will try to update weekly)
 [Lecture notes](http://yanbotang.github.io/files/notes_25FEB.pdf)
