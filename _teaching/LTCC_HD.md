@@ -15,7 +15,7 @@ Annotated slides
 [Week 2](http://yanbotang.github.io/files/LTCCW2.pdf)
 [Week 3](http://yanbotang.github.io/files/LTCCW3.pdf)
 
-Lecture notes (last update 25th of Febuary, will try to update weekly)
+Lecture notes (last update 4th of March, will try to update weekly)
 [Lecture notes](http://yanbotang.github.io/files/notes_MAR4.pdf)
 
 Resources
