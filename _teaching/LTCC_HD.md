@@ -14,9 +14,11 @@ Annotated slides
 [Week 1](http://yanbotang.github.io/files/LTCCW1.pdf)
 [Week 2](http://yanbotang.github.io/files/LTCCW2.pdf)
 [Week 3](http://yanbotang.github.io/files/LTCCW3.pdf)
+[Week 4](http://yanbotang.github.io/files/LTCCW4.pdf)
+[Week 5](http://yanbotang.github.io/files/LTCCW5.pdf)
 
 Lecture notes (last update 4th of March, will try to update weekly)
-[Lecture notes](http://yanbotang.github.io/files/notes_MAR11.pdf)
+[Lecture notes](http://yanbotang.github.io/files/notes_MAR18.pdf)
 
 Resources
 High-Dimensional Statistics by Philippe Rigollet and Jan-Christian Hütter: [Link](https://arxiv.org/pdf/2310.19244)
