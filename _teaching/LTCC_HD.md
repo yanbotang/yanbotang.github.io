@@ -4,20 +4,20 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/ltcc_hd
 venue: "LTCC, London"
-date: 2025-02-17
+date: 2026-01-16
 location: "London, UK"
 ---
 
 Five week introductory course on high-dimensional statistics. Course notes and slides will be posted here and updated on a rolling basis. The course material is a simple convex combination of available materials from existing books and notes from Philippe Rigollet, Jan-Christian Hütter, Roman Vershynin and Martin Wainwright, all of which will be linked below. I would consult these for a more complete picture.
 
-Annotated slides
+Annotated slides from 2025
 [Week 1](http://yanbotang.github.io/files/LTCCW1.pdf)
 [Week 2](http://yanbotang.github.io/files/LTCCW2.pdf)
 [Week 3](http://yanbotang.github.io/files/LTCCW3.pdf)
 [Week 4](http://yanbotang.github.io/files/LTCCW4.pdf)
 [Week 5](http://yanbotang.github.io/files/LTCCW5.pdf)
 
-Lecture notes (last update 4th of March, will try to update weekly)
+Lecture notes (last updated 7th FEB)
 [Lecture notes](http://yanbotang.github.io/files/notes.pdf)
 
 Resources
